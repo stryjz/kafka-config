@@ -1,0 +1,22 @@
+[
+  {
+    "topic": "users.bank",
+    "partitions": 1,
+    "replicas": 1
+  },
+  {
+    "topic": "users.test",
+    "partitions": 1,
+    "replicas": 1
+  },
+  {
+    "topic": "post.account-created",
+    "partitions": 1,
+    "replicas": 1
+  },
+  {
+    "topic": "bank.transaction",
+    "partitions": 1,
+    "replicas": 1
+  }
+]
